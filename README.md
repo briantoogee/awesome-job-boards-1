@@ -203,6 +203,10 @@ A curated list of awesome niche job boards.
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 
+### Asia
+
+* [SGDevJobs] (https://sgdevjobs.com) - Dedicated Tech jobs in Singapore
+
 ### Canada
 
 * [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
